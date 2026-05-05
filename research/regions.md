@@ -20,13 +20,13 @@ Driving times are from Belgrade, via Niš and Skopje (standard route). Add ~1h f
 ## 1. Pieria — Mount Olympus Riviera
 
 **Drive from Belgrade:** ~8h  
-**Base town:** Litochoro
+**Base town:** [Litochoro](https://maps.google.com/maps?q=Litochoro,+Greece)
 
-The natural gateway to Mount Olympus. The coastal strip (Olympus Riviera) runs along the Aegean from Platamon Castle in the north to Nei Pori in the south, with beaches, harbors, and archaeological sites. Inland, the terrain climbs steeply into Olympus.
+The natural gateway to Mount Olympus. The coastal strip (Olympus Riviera) runs along the Aegean from [Platamon Castle](https://maps.google.com/maps?q=Platamon+Castle,+Greece) in the north to Nei Pori in the south, with beaches, harbors, and archaeological sites. Inland, the terrain climbs steeply into Olympus.
 
 **Cycling highlights:**
-- Road climb from Litochoro to Prionia (trailhead at 1,100m): the classic Olympus road — 30 hairpins, excellent tarmac, big views
-- Route through the gorge of Mavroneri and up to Fteri village at 1,400m (scenic gorge road)
+- Road climb from Litochoro to [Prionia](https://maps.google.com/maps?q=Prionia,+Mount+Olympus,+Greece) (trailhead at 1,100m): the classic Olympus road — 30 hairpins, excellent tarmac, big views
+- Route through the gorge of Mavroneri and up to [Fteri village](https://maps.google.com/maps?q=Fteri,+Pieria,+Greece) at 1,400m (scenic gorge road)
 - Route via Platamon Castle through the old villages of Panteleimon, Old Pori, Ano Skotina
 - Coastal road along the Pieria Riviera (flat/easy, can combine with a swim)
 - Listed as part of the developing EuroVelo 11 route
@@ -42,14 +42,14 @@ The natural gateway to Mount Olympus. The coastal strip (Olympus Riviera) runs a
 ## 2. Thessaly — Meteora / Kalambaka
 
 **Drive from Belgrade:** ~9.5h  
-**Base town:** Kalambaka
+**Base town:** [Kalambaka](https://maps.google.com/maps?q=Kalambaka,+Greece)
 
-The Meteora rock formations — UNESCO World Heritage Site — rise abruptly from the flat Thessalian plain. Monasteries perched on sandstone pillars make this one of the most visually dramatic cycling backdrops in Europe. The surrounding valley and foothills offer good road cycling.
+The [Meteora](https://maps.google.com/maps?q=Meteora,+Greece) rock formations — UNESCO World Heritage Site — rise abruptly from the flat Thessalian plain. Monasteries perched on sandstone pillars make this one of the most visually dramatic cycling backdrops in Europe. The surrounding valley and foothills offer good road cycling.
 
 **Cycling highlights:**
 - Loop around and between the monasteries on quiet tarmac (18–40km circuits)
 - Routes into the Pindus foothills west of Kalambaka — winding mountain roads with little traffic
-- Combination with Zagori (Ioannina is 1h45min from Kalambaka): these two areas can share a base or be chained
+- Combination with Zagori ([Ioannina](https://maps.google.com/maps?q=Ioannina,+Greece) is 1h45min from Kalambaka): these two areas can share a base or be chained
 - Routes southeast into the Thessalian plain offer flat riding (less interesting but possible warm-up/rest days)
 
 **Road quality:** Good on main monastery roads; quieter mountain roads generally sound.
@@ -63,16 +63,16 @@ The Meteora rock formations — UNESCO World Heritage Site — rise abruptly fro
 ## 3. Epirus — Zagori / Ioannina
 
 **Drive from Belgrade:** ~10h  
-**Base town:** Ioannina or Monodendri (inside Zagori)
+**Base town:** [Ioannina](https://maps.google.com/maps?q=Ioannina,+Greece) or [Monodendri](https://maps.google.com/maps?q=Monodendri,+Zagori,+Greece) (inside Zagori)
 
-One of the most scenic regions in Greece and arguably the wildest on the mainland. The Pindus Mountains here are dramatic limestone ridges with deep gorges, stone-arched bridges, and 46 traditional villages (the Zagorochoria) largely unspoiled by mass tourism. The Vikos Gorge is one of the deepest in the world.
+One of the most scenic regions in Greece and arguably the wildest on the mainland. The Pindus Mountains here are dramatic limestone ridges with deep gorges, stone-arched bridges, and 46 traditional villages (the Zagorochoria) largely unspoiled by mass tourism. The [Vikos Gorge](https://maps.google.com/maps?q=Vikos+Gorge,+Greece) is one of the deepest in the world.
 
 **Cycling highlights:**
-- Quiet tarmac roads through the Zagori villages (Monodendri, Papingo, Tsepelovo)
-- Mountain passes with big views — Morfa Pass is a notable climb
+- Quiet tarmac roads through the Zagori villages ([Monodendri](https://maps.google.com/maps?q=Monodendri,+Zagori,+Greece), [Papingo](https://maps.google.com/maps?q=Papingo,+Zagori,+Greece), [Tsepelovo](https://maps.google.com/maps?q=Tsepelovo,+Zagori,+Greece))
+- Mountain passes with big views — [Morfa Pass](https://maps.google.com/maps?q=Morfa+Pass,+Zagori,+Greece) is a notable climb
 - Roads connecting the stone villages are third-level, very low traffic, well-suited to road bikes
 - Ioannina itself is a base city with a lake and castle island
-- Metsovo (on the Katara Pass, 1,705m) — highest paved pass in Greece, important cycling landmark connecting Epirus to Thessaly
+- [Metsovo](https://maps.google.com/maps?q=Metsovo,+Greece) (on the [Katara Pass](https://maps.google.com/maps?q=Katara+Pass,+Greece), 1,705m) — highest paved pass in Greece, important cycling landmark connecting Epirus to Thessaly
 
 **Road quality:** Mostly quiet tarmac. Some roads described as mixed (tarmac + gravel tracks), so route selection matters. The inter-village roads are tarmac. Avoid dirt tracks that appear on some mapping apps.
 
@@ -87,14 +87,14 @@ One of the most scenic regions in Greece and arguably the wildest on the mainlan
 ## 4. Halkidiki — Three Peninsulas
 
 **Drive from Belgrade:** ~8h (via Thessaloniki)  
-**Base options:** Neos Marmaras (Sithonia), Ouranoupoli (Athos peninsula area)
+**Base options:** [Neos Marmaras](https://maps.google.com/maps?q=Neos+Marmaras,+Halkidiki,+Greece) (Sithonia), [Ouranoupoli](https://maps.google.com/maps?q=Ouranoupoli,+Halkidiki,+Greece) (Athos peninsula area)
 
-Three peninsulas extending into the Aegean southeast of Thessaloniki. Kassandra (1st peninsula) is more developed and flat. Sithonia (2nd) is hilly, forested, and less touristic — better for cycling. Athos (3rd) has restricted access (no cars beyond a point, monastic).
+Three peninsulas extending into the Aegean southeast of Thessaloniki. Kassandra (1st peninsula) is more developed and flat. [Sithonia](https://maps.google.com/maps?q=Sithonia,+Halkidiki,+Greece) (2nd) is hilly, forested, and less touristic — better for cycling. Athos (3rd) has restricted access (no cars beyond a point, monastic).
 
 **Cycling highlights:**
 - Sithonia circuit (~100km for the full loop): coastal asphalt, hilly, pine forests, turquoise bays
-- Western Sithonia route via the traditional mountain village of Parthenonas (architectural reserve, stone houses)
-- Aristotle's Park in Stagira (birthplace of Aristotle) along the Athos road
+- Western Sithonia route via the traditional mountain village of [Parthenonas](https://maps.google.com/maps?q=Parthenonas,+Sithonia,+Greece) (architectural reserve, stone houses)
+- [Aristotle's Park in Stagira](https://maps.google.com/maps?q=Aristotle+Park,+Stagira,+Greece) (birthplace of Aristotle) along the Athos road
 - Coastal roads with beach access throughout
 
 **Road quality:** Good coastal asphalt; inland on Sithonia can be rougher. Kassandra gets heavy tourist traffic in July/August; in June it's more manageable.
@@ -110,9 +110,9 @@ Three peninsulas extending into the Aegean southeast of Thessaloniki. Kassandra 
 ## 5. Central Greece — Evrytania / Agrafa
 
 **Drive from Belgrade:** ~11–12h  
-**Base town:** Karpenisi
+**Base town:** [Karpenisi](https://maps.google.com/maps?q=Karpenisi,+Greece)
 
-Known as the "Switzerland of Greece." Evrytania is one of the least-populated and most mountainous prefectures in the country, crossed by the Agrafa mountain range. Remote, spectacular, very few tourists.
+Known as the "Switzerland of Greece." Evrytania is one of the least-populated and most mountainous prefectures in the country, crossed by the [Agrafa mountain range](https://maps.google.com/maps?q=Agrafa+Mountains,+Greece). Remote, spectacular, very few tourists.
 
 **Cycling highlights:**
 - Mountain roads through dense fir forests and dramatic gorges
@@ -131,45 +131,45 @@ Known as the "Switzerland of Greece." Evrytania is one of the least-populated an
 ## 6. Peloponnese
 
 **Drive from Belgrade:** ~14–15h (to Nafplio / Kalamata)  
-**Base options:** Nafplio (northeast), Sparta (central), Kalamata (south), Kardamyli/Stoupa (Mani)
+**Base options:** [Nafplio](https://maps.google.com/maps?q=Nafplio,+Greece) (northeast), [Sparta](https://maps.google.com/maps?q=Sparta,+Greece) (central), [Kalamata](https://maps.google.com/maps?q=Kalamata,+Greece) (south), [Kardamyli](https://maps.google.com/maps?q=Kardamyli,+Greece) / [Stoupa](https://maps.google.com/maps?q=Stoupa,+Mani,+Greece) (Mani)
 
 The furthest region from Belgrade, but a legitimate world-class cycling destination. The Peloponnese is a peninsula (connected to mainland by the Corinth isthmus) with extreme terrain diversity: the Taygetos range, the Mainalo plateau, Mani's stone tower villages, ancient sites (Olympia, Mycenae, Mystras, Epidaurus), and long coastlines on both Aegean and Ionian sides.
 
-### 6a. Mani Peninsula
+### 6a. [Mani Peninsula](https://maps.google.com/maps?q=Mani+Peninsula,+Greece)
 
 The central finger of the Peloponnese. Rugged, remote-feeling, and one of the most praised road cycling areas in all of Greece.
 
 - Praised for "perfect tarmac" and near-zero traffic
-- Landscape: stone tower villages (pyrgi), Cape Tainaron (southernmost point of mainland Greece), Byzantine churches, rugged coastline
+- Landscape: stone tower villages (pyrgi), [Cape Tainaron](https://maps.google.com/maps?q=Cape+Tainaron,+Greece) (southernmost point of mainland Greece), Byzantine churches, rugged coastline
 - Coastal roads: continuous up-and-down of short climbs with sea views
 - Inland: bigger climbs into the Taygetos foothills
-- Base: Areopoli or Gytheio
-- Water sports: Stoupa (near Kardamyli) has sea kayaking, SUP, snorkeling operators
+- Base: [Areopoli](https://maps.google.com/maps?q=Areopoli,+Greece) or [Gytheio](https://maps.google.com/maps?q=Gytheio,+Greece)
+- Water sports: [Stoupa](https://maps.google.com/maps?q=Stoupa,+Mani,+Greece) (near Kardamyli) has sea kayaking, SUP, snorkeling operators
 
 **Sources:** [The Slow Cyclist – Cycling Holidays in the Mani](https://www.theslowcyclist.com/destinations/greece-cycling-holidays/the-mani/) · [Ginevra Rides – Peloponnese on the Road](https://ginevrarides.com/2022/08/24/peloponnese-on-the-road/)
 
 ### 6b. Arcadia (Peloponnese interior)
 
 - Green, forested mountain plateau — the "heart of the Peloponnese"
-- Mainalo mountain range and Lousios Gorge
-- Stone villages, monasteries, waterfalls (Polylimnio)
-- Base: Vytina (at 1,033m — already at altitude, cooler in June)
+- [Mainalo mountain range](https://maps.google.com/maps?q=Mainalo+Mountain,+Arcadia,+Greece) and [Lousios Gorge](https://maps.google.com/maps?q=Lousios+Gorge,+Greece)
+- Stone villages, monasteries, waterfalls ([Polylimnio](https://maps.google.com/maps?q=Polylimnio+Waterfalls,+Greece))
+- Base: [Vytina](https://maps.google.com/maps?q=Vytina,+Arcadia,+Greece) (at 1,033m — already at altitude, cooler in June)
 - Routes: forested climbs through fir trees, quiet plateau roads
-- Nearby: Ancient Olympia (birthplace of the Olympic Games) for a rest-day cultural visit
+- Nearby: [Ancient Olympia](https://maps.google.com/maps?q=Ancient+Olympia,+Greece) (birthplace of the Olympic Games) for a rest-day cultural visit
 
 ### 6c. Taygetos / Sparta Area
 
-- The Taygetos is the most famous climbing range in the Peloponnese
-- **Langada Pass** (Sparta → Kalamata via the mountain): 28km climbing from 210m to 1,524m — one of the great road cycling ascents in Greece
-- **Mystras**: Byzantine UNESCO World Heritage Site, at the foot of Taygetos above Sparta
+- The [Taygetos range](https://maps.google.com/maps?q=Taygetos+Mountains,+Greece) is the most famous climbing range in the Peloponnese
+- **[Langada Pass](https://maps.google.com/maps?q=Langada+Pass,+Laconia,+Greece)** (Sparta → Kalamata via the mountain): 28km climbing from 210m to 1,524m — one of the great road cycling ascents in Greece
+- **[Mystras](https://maps.google.com/maps?q=Mystras,+Greece)**: Byzantine UNESCO World Heritage Site, at the foot of Taygetos above Sparta
 - Route combining Sparta, Mystras, Gytheio, and the Mani coast is considered among the best cycling itineraries in Greece
 
-### 6d. Nafplio / Argolis (northeast Peloponnese)
+### 6d. [Nafplio](https://maps.google.com/maps?q=Nafplio,+Greece) / Argolis (northeast Peloponnese)
 
 - Beautiful Venetian harbor town, neoclassical architecture, three medieval forts
 - Cycling: coastal road toward Ancient Corinth and Epidaurus; rolling countryside through orange groves
-- Sea kayaking operators based here — paddling around the Bourtzi island fortress
+- Sea kayaking operators based here — paddling around the [Bourtzi](https://maps.google.com/maps?q=Bourtzi+Castle,+Nafplio,+Greece) island fortress
 - Less demanding terrain than the southern Peloponnese; good for mix of sightseeing and riding
-- Nearby: Mycenae (Bronze Age citadel), Epidaurus (ancient theatre), Tiryns (Cyclopean walls) — dense with UNESCO-level landmarks
+- Nearby: [Mycenae](https://maps.google.com/maps?q=Mycenae,+Greece) (Bronze Age citadel), [Epidaurus](https://maps.google.com/maps?q=Epidaurus,+Greece) (ancient theatre), [Tiryns](https://maps.google.com/maps?q=Tiryns,+Greece) (Cyclopean walls) — dense with UNESCO-level landmarks
 
 **Sources:** [Greece Bike Tours – Complete Peloponnese Guide](https://greecebiketours.com/the-peloponnese-cycling-guide) · [Komoot – Road Cycling in Peloponnese Mountains](https://www.komoot.com/guide/50653/road-cycling-routes-in-the-peloponnese-mountains) · [Explore Messinia – Sea Kayak Nafplio](https://www.exploremessinia.com/en/outdoor-activities/sea/sea-kayak-nafplio)
