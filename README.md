@@ -31,7 +31,11 @@ Each topic lives in its own file or folder. Click any link below to open it. If 
 
 ### Plans
 
-*Coming soon — 2–3 candidate itineraries with day-by-day breakdowns, base locations, map links, and a comparison table.*
+| File | What's inside |
+|------|--------------|
+| [plans/plan-a-zagori-peloponnese-olympus.md](plans/plan-a-zagori-peloponnese-olympus.md) | Plan A: Belgrade → Zagori → Kalamata (Peloponnese loop) → Olympus → Belgrade · 16 days · 3 bases · full day-by-day itinerary |
+
+*Additional candidate itineraries to be added.*
 
 ---
 
