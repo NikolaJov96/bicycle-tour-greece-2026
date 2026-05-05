@@ -17,6 +17,7 @@ Each topic lives in its own file or folder. Click any link below to open it. If 
 | File | What's inside |
 |------|--------------|
 | [constraints.md](constraints.md) | Trip requirements and non-negotiables: dates, group size, daily riding capacity, road preferences, logistics |
+| [packing.md](packing.md) | Full packing list: cycling gear, Olympus hike kit, water sports, documents, car essentials |
 
 ### Research
 
