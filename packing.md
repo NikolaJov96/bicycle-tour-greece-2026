@@ -128,6 +128,7 @@ Two cars from Belgrade. June heat (30–38 °C at sea level, cooler in mountains
 - Paper road map (North Macedonia + Greece) as GPS backup
 - Wet wipes + hand sanitiser
 - Rubbish bags
+- Portable radio stations
 
 ---
 
