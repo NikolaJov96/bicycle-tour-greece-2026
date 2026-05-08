@@ -95,6 +95,8 @@ Two cars from Belgrade. June heat (30–38 °C at sea level, cooler in mountains
 
 - Sunscreen SPF 50+ (large supply — Greek sun is intense)
 - Lip balm with SPF
+- Shower gel / shampoo
+- Earplugs (sleeping + driving)
 - Chamois cream
 - After-sun / aloe vera gel
 - Insect repellent
