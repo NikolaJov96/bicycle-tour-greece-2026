@@ -14,6 +14,7 @@ Driving times are from Belgrade, via Niš and Skopje (standard route). Add ~1h f
 | Halkidiki | ~8h | Coastal + hilly | Good | Moderate (resort areas) | ~1.5h drive | ✅ Yes |
 | Central Greece / Evrytania | ~11–12h | Deep mountain | Good but remote | Very low | ~4h+ | No |
 | Peloponnese (general) | ~14–15h | Varied: mountain, coastal | Generally good | Low–moderate | ❌ Far | ✅ Yes |
+| **Evia (Euboea)** | ~11.5h (via Olympus) | Mountain + coastal | Good on main roads | Very low | ~3.5h drive | Some |
 
 ---
 
@@ -173,3 +174,33 @@ The central finger of the Peloponnese. Rugged, remote-feeling, and one of the mo
 - Nearby: [Mycenae](https://maps.google.com/maps?q=Mycenae,+Greece) (Bronze Age citadel), [Epidaurus](https://maps.google.com/maps?q=Epidaurus,+Greece) (ancient theatre), [Tiryns](https://maps.google.com/maps?q=Tiryns,+Greece) (Cyclopean walls) — dense with UNESCO-level landmarks
 
 **Sources:** [Greece Bike Tours – Complete Peloponnese Guide](https://greecebiketours.com/the-peloponnese-cycling-guide) · [Komoot – Road Cycling in Peloponnese Mountains](https://www.komoot.com/guide/50653/road-cycling-routes-in-the-peloponnese-mountains) · [Explore Messinia – Sea Kayak Nafplio](https://www.exploremessinia.com/en/outdoor-activities/sea/sea-kayak-nafplio)
+
+---
+
+## 7. Evia (Euboea)
+
+**Drive from Belgrade:** ~11.5h (via Litochoro area ~8h + Litochoro → Eretria ~3.5h)  
+**Drive from Litochoro:** ~3.5h (via Larissa, Lamia, Halkida)  
+**Base town:** [Eretria](https://maps.google.com/maps?q=Eretria,+Evia,+Greece) (best central position); [Karystos](https://maps.google.com/maps?q=Karystos,+Evia,+Greece) for southern focus  
+**Bridge access:** Connected to mainland at [Halkida](https://maps.google.com/maps?q=Halkida,+Greece) — no ferry required
+
+Greece's second-largest island, connected to the mainland by bridges. Often overlooked by international tourism, which is its advantage: cheaper accommodation, quieter roads, and an authentic character. At 180km long with varied terrain — high mountains in the north, rolling hills and vineyards in the centre, volcanic plateau in the south — it supports a genuine multi-day cycling tour. Multiple tour operators run 7-day cycling holidays here.
+
+**Cycling highlights:**
+- **Dirfys mountain (1,743m):** The defining climb of Evia. Road from [Steni Dirfys](https://maps.google.com/maps?q=Steni+Dirfys,+Evia,+Greece) (450m) to [Dirfys Refuge](https://maps.google.com/maps?q=Dirfys+Refuge,+Evia,+Greece) at 1,120m — about 12km, 680m climbing from Steni. A full day from Eretria adds the Eretria–Steni approach (~40km). Road does not continue to summit; summit hiking starts from refuge.
+- **East coast road → Kymi:** [Kymi](https://maps.google.com/maps?q=Kymi,+Evia,+Greece) is the only east-coast town, dramatically perched on a cliff above the Aegean. The approach road from Aliveri is scenic and lightly trafficked.
+- **Dragon Houses (Drakospita) near Styra:** Megalithic granite structures unique to Evia — enormous slabs assembled without mortar, probably 8th–7th century BCE. Located on the slopes of [Mt. Ohi](https://maps.google.com/maps?q=Mt+Ohi,+Evia,+Greece) (1,395m) above [Styra](https://maps.google.com/maps?q=Styra,+Evia,+Greece), accessible as a day excursion from Eretria.
+- **West coast (Euboean Gulf):** Sheltered, calm, good for easier days; views across to the mainland mountains.
+- **Central Evia:** Vineyard and olive-grove landscape through quiet villages — very low traffic.
+
+**Road quality:** Main roads well-surfaced. Mountain roads (Dirfys approach, east coast) are generally good tarmac but narrower. Verify surface with Komoot before riding minor inland roads.
+
+**⚠️ 2021 Wildfire — Northern Evia:** In August 2021, the worst wildfire in modern Greek history burned ~50,000 hectares across northern Evia — the area from roughly [Limni](https://maps.google.com/maps?q=Limni,+Evia,+Greece) and [Rovies](https://maps.google.com/maps?q=Rovies,+Evia,+Greece) northward to [Istiaia](https://maps.google.com/maps?q=Istiaia,+Evia,+Greece). By 2026 (5 years of recovery) there will be visible vegetation regrowth but the conifer forest — which takes 20–25 years to recover — will not be back. Routes in the burn zone lack the scenic value of the forested areas. **Recommendation: keep cycling routes south of Agia Anna**, which keeps you in the unaffected central and southern part of the island. The towns in the north are operational but the landscape is scarred.
+
+**Accommodation:** Significantly cheaper than major tourist hotspots. Hotels: €80–130/night for 3–4 star. Guesthouses and apartments: €40–80/night. June is peak season so book in advance, but availability is better than Halkidiki or Peloponnese resort areas.
+
+**Water sports:** Operators present but Evia is not a world-famous water sports destination. Known options:
+- [Xtreme Greece](https://www.xtremegreece.gr/en/canoe-kayak/sea-kayak-snorkeling-in-agia-anna-evia.html) — sea kayak near Agia Anna, central Evia
+- [Aegean Outdoors](https://aegeanoutdoors.com/tour/evia-sailing-adventure/) — sailing from Halkida, visits northern Euboean Gulf
+
+**Cycling sources:** [S-Cape Travel — 7-day self-guided Evia](https://www.s-capetravel.eu/holidays/evia-cycling-self-guided) · [Hooked on Cycling — Explore Evia by Bike](https://www.hookedoncycling.co.uk/greece/explore-the-island-of-evia-by-bike/) · [Bikemap — Evia cycling route](https://www.bikemap.net/en/r/2238701/) · [AllTrails — road biking in Evia](https://www.alltrails.com/greece/evia/road-biking) · [The Natural Adventure — Cycling on Evia](https://www.thenaturaladventure.com/tours/greece/cycling-on-evia-island-and-around-the-euboean-gulf/)

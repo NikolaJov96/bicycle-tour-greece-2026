@@ -35,8 +35,7 @@ Each topic lives in its own file or folder. Click any link below to open it. If 
 | File | What's inside |
 |------|--------------|
 | [plans/plan-a-zagori-peloponnese-olympus.md](plans/plan-a-zagori-peloponnese-olympus.md) | Plan A: Belgrade → Zagori → Kalamata (Peloponnese loop) → Olympus → Belgrade · 16 days · 3 bases · full day-by-day itinerary |
-
-*Additional candidate itineraries to be added.*
+| [plans/plan-b-olympus-evia-pindos.md](plans/plan-b-olympus-evia-pindos.md) | Plan B: Belgrade → Olympus (camp) → Evia moving tour (Halkida→Kymi→Karystos→Eretria→Halkida) → Olympus (hike) → Zagori → Belgrade · 16 days · full day-by-day itinerary |
 
 ---
 
