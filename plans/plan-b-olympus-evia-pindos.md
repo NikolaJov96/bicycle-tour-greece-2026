@@ -11,12 +11,12 @@
 | Segment | Overnight towns | Days | Riding days |
 |---------|----------------|------|-------------|
 | Olympus — first stay | Litochoro campsite | Days 1–2 | 1 (Day 2) |
-| Evia — moving tour | Halkida · Kymi(×2) · Karystos(×2) · Eretria · Halkida | Days 3–9 | 6 (Days 4–9) |
+| Evia — moving tour | Halkida · Kymi · Styra · Karystos · Nea Styra · Aliveri · Halkida | Days 3–9 | 6 (Days 4–9) |
 | Olympus — second stay | Litochoro campsite | Days 10–11 | 0 (hike day) |
 | Zagori / Pindos | Ioannina | Days 12–15 | 3 (Days 13–15) |
 | Return | — | Day 16 | — |
 
-**Evia format:** Moving tour — both cars follow riders to each night's stop, carrying luggage. Start and end at Halkida (bridge, easy car access). Two 2-night stops where a good loop is available (Kymi, Karystos).
+**Evia format:** Moving tour — both cars follow riders to each night's stop, carrying luggage. Start and end at Halkida (bridge, easy car access). Clockwise loop: north over Dirfys to the Aegean east coast, south to Karystos, back north via the Euboean Gulf west coast.
 
 **Accommodation:**
 - Litochoro (both stays): campsite — e.g., [Camping Olympos Zeus](https://maps.google.com/maps?q=Camping+Olympos+Zeus,+Litochoro,+Greece)
@@ -53,47 +53,48 @@
 - Brief walk to the [Euripus strait](https://maps.google.com/maps?q=Euripus+Strait,+Halkida,+Greece): the tidal channel between Evia and the mainland reverses direction ~14 times/day — visibly churning water, unusual enough to be worth ten minutes
 - Night: Halkida
 
-**Stage 1 — Day 4 — June 16 · Halkida → Kymi**
-- Route: Halkida → [Eretria](https://maps.google.com/maps?q=Eretria,+Evia,+Greece) → [Amarinthos](https://maps.google.com/maps?q=Amarinthos,+Evia,+Greece) → [Aliveri](https://maps.google.com/maps?q=Aliveri,+Evia,+Greece) → [Kymi](https://maps.google.com/maps?q=Kymi,+Evia,+Greece)
-- ~70 km · ~700 m
-- Highlights: Eretria — ancient theatre and Temple of Apollo; coast road along the Euboean Gulf; climb east across the island to Kymi, the only town on Evia's Aegean coast, dramatically perched on a cliff above the sea; descent to [Paralia Kymis](https://maps.google.com/maps?q=Paralia+Kymis,+Evia,+Greece) beach for a swim
-- Routes: search "komoot Halkida Kymi road cycling"
+**Stage 1 — Day 4 — June 16 · Halkida → Kymi via Steni Dirfys** ⚠️ hardest day
+- Route: Halkida → [Steni Dirfys](https://maps.google.com/maps?q=Steni+Dirfys,+Evia,+Greece) (450 m) → continue climbing to Dirfys pass (~1,100 m) → east-face descent → [Kymi](https://maps.google.com/maps?q=Kymi,+Evia,+Greece)
+- ~85 km · ~1,400 m
+- Highlights: Steni Dirfys is a village at the foot of the north face of Dirfys (1,743 m — Evia's highest peak); the road climbs through dense fir forest to the saddle and then drops steeply to the Aegean coast; Kymi is the only town on Evia's east coast, perched on a cliff above the sea; descent to [Paralia Kymis](https://maps.google.com/maps?q=Paralia+Kymis,+Evia,+Greece) for a swim
+- ⚠️ The mountain crossing from Steni to the east face should be verified on Komoot before riding — paved but variable quality; search "komoot Steni Dirfys Kymi crossing"
 - Night: Kymi
 
-**Stage 2 — Day 5 — June 17 · Kymi loop — east coast cliffs + Avlonari**
-- Route: Kymi → south along the east-coast cliff road → [Avlonari](https://maps.google.com/maps?q=Avlonari,+Evia,+Greece) → back to Kymi
-- ~50 km · ~600 m
-- Highlights: the east coast road south of Kymi hugs dramatic cliffs above the Aegean — one of the more striking coastal road sections in central Greece; Avlonari is an inland village with a prominent Byzantine tower-house; return gives a different view of the terrain; short day leaves time to explore Kymi's steep alleys and the port below
-- Routes: [AllTrails — Kymi beach loop reference](https://www.alltrails.com/trail/greece/evia/kymi-beach-kymi-dendra) · search "komoot Kymi Avlonari loop"
-- Night: Kymi *(second night — loop day)*
+**Stage 2 — Day 5 — June 17 · Kymi → Styra (east coast south)**
+- Route: Kymi → south along the east-coast cliff road → [Kolethra Spring](https://maps.google.com/maps?q=Kolethra+Spring,+Evia,+Greece) → [Avlonari](https://maps.google.com/maps?q=Avlonari,+Evia,+Greece) (Byzantine tower-house) → [Styra](https://maps.google.com/maps?q=Styra,+Evia,+Greece) coastal area
+- ~65 km · ~700 m
+- Highlights: the east coast road south of Kymi hugs dramatic cliffs above the Aegean; Kolethra Spring — fresh water source with a shaded rest spot; Avlonari is an inland village with a distinctive medieval tower-house visible from far; Styra is the gateway to the Dragon Houses area
+- Routes: search "komoot Kymi Styra east coast road cycling"
+- Night: Styra / [Almyropotamos](https://maps.google.com/maps?q=Almyropotamos,+Evia,+Greece) area
 
-**Stage 3 — Day 6 — June 18 · Kymi → Karystos** ⚠️ longest day
-- Route: Kymi → [Lepoura](https://maps.google.com/maps?q=Lepoura,+Evia,+Greece) junction (interior crossing) → [Styra](https://maps.google.com/maps?q=Styra,+Evia,+Greece) → [Karystos](https://maps.google.com/maps?q=Karystos,+Evia,+Greece)
-- ~75 km · ~800 m
-- Highlights: crossing the island's interior spine — a different character to the coast stages; Styra is the entry point to the Dragon Houses area; Karystos harbour arrival under the silhouette of [Mt. Ohi](https://maps.google.com/maps?q=Mt+Ohi,+Evia,+Greece) (1,395m)
-- ⚠️ There is no continuous road along the east coast from Kymi south — the route goes inland. Exact road via the interior should be verified on Komoot before riding; search "komoot Kymi Karystos road cycling"
+**Stage 3 — Day 6 — June 18 · Styra → Dragon Houses → Karystos**
+- Route: Styra → [Dragon Houses of Styra (Drakospita)](https://maps.google.com/maps?q=Drakospita,+Styra,+Evia,+Greece) → [Dragon Houses of Kapsala](https://maps.google.com/maps?q=Dragon+Houses+Kapsala,+Evia,+Greece) → [Agios Dimitrios Gorge](https://maps.google.com/maps?q=Agios+Dimitrios+Gorge,+Karystos,+Evia,+Greece) → [Karystos](https://maps.google.com/maps?q=Karystos,+Evia,+Greece)
+- ~55 km · ~1,000 m
+- Highlights: Dragon Houses (Drakospita) — enormous granite slabs assembled without mortar into roofed structures found nowhere else in the world, probably 8th–7th century BCE, two distinct sites; [Mt. Ohi](https://maps.google.com/maps?q=Mt+Ohi,+Evia,+Greece) (1,395 m) backdrop; Agios Dimitrios Gorge on the approach to Karystos — a narrow ravine with clear water; Karystos harbour for the night
+- Note: shorter distance but high elevation load from the Dragon Houses climbs; plan extra time for on-foot exploration at both sites
+- Routes: [GrCycling — routes around Karystos](https://booking.grcycling.com/karystos,-evia/routes) · search "komoot Styra Dragon Houses Karystos"
 - Night: Karystos
 
-**Stage 4 — Day 7 — June 19 · Karystos — Dragon Houses + southern coast**
-- Route: Karystos → [Dragon Houses (Drakospita)](https://maps.google.com/maps?q=Drakospita,+Styra,+Evia,+Greece) above Styra → [Marmari](https://maps.google.com/maps?q=Marmari,+Evia,+Greece) coast → back to Karystos
-- ~55 km · ~700 m
-- Highlights: Dragon Houses (Drakospita) — the most distinctive archaeological mystery of Evia; enormous granite slabs assembled without mortar into roofed structures, found nowhere else in the world, probably 8th–7th century BCE; Mt. Ohi (1,395m) backdrop; Marmari harbour for a swim and lunch
-- Routes: [GrCycling — routes around Karystos](https://booking.grcycling.com/karystos,-evia/routes) · search "komoot Dragon Houses Karystos loop"
-- Night: Karystos *(second night — loop day)*
+**Stage 4 — Day 7 — June 19 · Karystos → Marmari → west coast → Nea Styra**
+- Route: Karystos → [Marmari](https://maps.google.com/maps?q=Marmari,+Evia,+Greece) → turn north on the west-coast road → [Nea Styra](https://maps.google.com/maps?q=Nea+Styra,+Evia,+Greece)
+- ~65 km · ~700 m
+- Highlights: Marmari — small harbour town with a morning swim option; the west coast road runs along the Euboean Gulf with views across to mainland Attica; the character shifts here — rolling hills, olive groves, quieter road than the east coast; Nea Styra is a small beach resort
+- Routes: search "komoot Karystos Marmari Nea Styra west coast"
+- Night: Nea Styra
 
-**Stage 5 — Day 8 — June 20 · Karystos → Eretria**
-- Route: Karystos → [Marmari](https://maps.google.com/maps?q=Marmari,+Evia,+Greece) → [Styra](https://maps.google.com/maps?q=Styra,+Evia,+Greece) → [Lepoura](https://maps.google.com/maps?q=Lepoura,+Evia,+Greece) → [Amarinthos](https://maps.google.com/maps?q=Amarinthos,+Evia,+Greece) → [Eretria](https://maps.google.com/maps?q=Eretria,+Evia,+Greece)
-- ~80 km · ~700 m — longer day, light elevation
-- Highlights: retracing the island's main spine northward; Styra from the south approach; the west-facing Euboean Gulf coast view on the final stretch into Eretria and Amarinthos
-- Routes: [Bikemap — Evia cycling route](https://www.bikemap.net/en/r/2238701/) · search "komoot Karystos Eretria road"
-- Night: Eretria
+**Stage 5 — Day 8 — June 20 · Nea Styra → west coast north → Aliveri**
+- Route: Nea Styra → [Almyropotamos](https://maps.google.com/maps?q=Almyropotamos,+Evia,+Greece) → continue north via the west coast → [Aliveri](https://maps.google.com/maps?q=Aliveri,+Evia,+Greece)
+- ~65 km · ~600 m
+- Highlights: the Euboean Gulf coast road in its most scenic stretch — views across the narrow channel to mainland Greece; Almyropotamos has a small beach and a natural spring; Aliveri is an inland junction town with a medieval Frankish castle
+- Routes: search "komoot Nea Styra Aliveri west coast Evia"
+- Night: Aliveri
 
-**Stage 6 — Day 9 — June 21 · Eretria → Dirfys → Halkida** ⚠️ hardest day · back to anchor
-- Route: Eretria → Halkida → [Steni Dirfys](https://maps.google.com/maps?q=Steni+Dirfys,+Evia,+Greece) (450m) → [Dirfys Refuge](https://maps.google.com/maps?q=Dirfys+Refuge,+Evia,+Greece) (1,120m) → back to Halkida
-- ~75 km · ~1,100 m
-- Highlights: Dirfys (1,743m) is the highest peak of Evia and the defining climb of the tour; the road rises from Steni through dense fir forest to the refuge at 1,120m with panoramic views across the island and the Aegean; optional 10-min Euripus strait stop in Halkida on the way out or back
-- Routes: search "komoot Steni Dirfys road climb" · [S-Cape Travel Evia route reference](https://www.s-capetravel.eu/holidays/evia-cycling-self-guided)
-- Night: Halkida *(back at starting anchor)*
+**Stage 6 — Day 9 — June 21 · Aliveri → Amarynthos → Eretria → Halkida** · return to anchor
+- Route: Aliveri → [Amarynthos](https://maps.google.com/maps?q=Amarynthos,+Evia,+Greece) → [Eretria](https://maps.google.com/maps?q=Eretria,+Evia,+Greece) → Halkida
+- ~55 km · ~400 m
+- Highlights: Amarynthos — a pleasant seafront promenade and the site of an ancient sanctuary to Artemis Amarysia (recently excavated); Eretria — ancient theatre, Temple of Apollo, and the small Archaeological Museum; arrival back at Halkida closes the loop; optional Euripus strait walk at day's end
+- Routes: search "komoot Aliveri Eretria Halkida coast road"
+- Night: Halkida *(end of loop)*
 
 ---
 
@@ -155,8 +156,8 @@
 
 | | Olympus (Day 2) | Evia (Days 4–9) | Zagori (Days 13–15) | Total |
 |---|---|---|---|---|
-| Distance | ~60 km | ~405 km | ~200 km | ~665 km |
-| Elevation | ~1,000 m | ~4,900 m | ~2,800 m | ~8,700 m |
+| Distance | ~60 km | ~390 km | ~200 km | ~650 km |
+| Elevation | ~1,000 m | ~4,800 m | ~2,800 m | ~8,600 m |
 
 *Plus Olympus hike (Day 11): 2,386 m elevation gain (Stefani–Mytikas–Skala, 10.39 km from Prionia)*
 
@@ -167,11 +168,11 @@
 | Days | Elevation | Status |
 |------|-----------|--------|
 | Day 2 (1,000m) → [drive Day 3] | No consecutive issue | ✅ |
-| Stage 1 (700m) → Stage 2 (600m) | Comfortable → easy | ✅ |
-| Stage 2 (600m) → Stage 3 (800m) | Easy → comfortable | ✅ |
-| Stage 3 (800m) → Stage 4 (700m) | Comfortable → comfortable | ✅ |
-| Stage 4 (700m) → Stage 5 (700m) | Comfortable → comfortable | ✅ |
-| Stage 5 (700m) → Stage 6 (1,100m) | Comfortable → hard | ✅ acceptable |
+| Stage 1 (1,400m) → Stage 2 (700m) | Hard → comfortable | ✅ acceptable |
+| Stage 2 (700m) → Stage 3 (1,000m) | Comfortable → hard | ✅ acceptable |
+| Stage 3 (1,000m) → Stage 4 (700m) | Hard → comfortable | ✅ |
+| Stage 4 (700m) → Stage 5 (600m) | Comfortable → comfortable | ✅ |
+| Stage 5 (600m) → Stage 6 (400m) | Comfortable → easy | ✅ |
 | Stage 6 → [drive Day 10] → hike Day 11 | No cycling consecutive issue | ✅ |
 | Day 13 (900m) → Day 14 (1,100m) | Comfortable → hard | ✅ acceptable |
 | Day 14 (1,100m) → Day 15 (800m) | Hard → comfortable | ✅ |
